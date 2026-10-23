@@ -59,5 +59,6 @@ public class Graph {
         }
 
         scanner.close();
+        return graph;
     }
 }
